@@ -1,10 +1,10 @@
-# LabelAuto - Shipping Label Data Extractor
+# Gemini AI Shipping Label Extractor
 
 A Python application that automatically extracts tracking numbers and phone numbers from shipping label images using Google's Gemini AI API.
 
 ## Features
 
-- **AI-Powered Analysis**: Uses Google Gemini 1.5 Flash model for accurate text extraction
+- **AI-Powered Analysis**: Uses Google Gemini 2.5 Flash model for accurate text extraction, and cost effectivity
 - **Batch Processing**: Process multiple images simultaneously with configurable worker threads
 - **Rate Limiting**: Built-in API rate limiting (10 RPM) to comply with Gemini API limits
 - **Smart Data Extraction**: Automatically identifies tracking numbers and recipient phone numbers
@@ -138,3 +138,4 @@ For issues or questions:
 
 Current version: 1.0
 Last updated: 2025
+
